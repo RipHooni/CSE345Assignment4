@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NationalParks>
+    <NationalPark Rating="4.8">
+        <Name>Grand Canyon</Name>
+        <Phone>928-638-7888<Phone>
+        <Address NearestAirport="FlagStaff">
+            <Number>2</Number>
+            <Street>S Entrance Road</Street>
+            <City>Grand Canyon Village</City>
+            <State>AZ</State>
+            <Zip>86023</Zip>
+        </Address>
+    </NationalPark>
