@@ -125,5 +125,17 @@
             <Zip>33034</Zip>
         </Address>
     </NationalPark>
+
+    <NationalPark Rating="4.8">
+        <Name>Joshua Tree</Name>
+        <Phone>760-367-5500</Phone>
+        <Address NearestAirport="Miami International Airport">
+            <Number>74485</Number>
+            <Street>National Park Drive</Street>
+            <City>Twentynine Palms</City>
+            <State>CA</State>
+            <Zip>92277</Zip>
+        </Address>
+    </NationalPark>
 </NationalParks>
     
