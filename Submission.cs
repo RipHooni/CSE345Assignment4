@@ -22,9 +22,9 @@ namespace ConsoleApp1
     public class Submission
     {
         // load files
-        public static string xmlURL = "https://raw.githubusercontent.com/RipHooni/CSE345Assignment4/main/NationalParks.xml";
-        public static string xmlErrorURL = "https://raw.githubusercontent.com/RipHooni/CSE345Assignment4/main/NationalParksErrors.xml";
-        public static string xsdURL = "https://raw.githubusercontent.com/RipHooni/CSE345Assignment4/main/NationalParks.xsd";
+        public static string xmlURL = "https://riphooni.github.io/CSE345Assignment4/NationalParks.xml";
+        public static string xmlErrorURL = "https://riphooni.github.io/CSE345Assignment4/NationalParksErrors.xml";
+        public static string xsdURL = "https://riphooni.github.io/CSE345Assignment4/NationalParks.xsd";
 
         public static void Main(string[] args)
         {
