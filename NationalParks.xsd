@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="https://riphooni.github.io/CSE345Assignment4" targetNamespace="https://riphooni.github.io/CSE345Assignment4" elementFormDefault="qualified" attributeFormDefault="unqualified">>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="https://riphooni.github.io/CSE345Assignment4" targetNamespace="https://riphooni.github.io/CSE345Assignment4" elementFormDefault="qualified" attributeFormDefault="unqualified">
     <xs:element name="NationalParks">
         <xs:complexType>
             <xs:sequence>
