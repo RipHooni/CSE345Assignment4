@@ -86,7 +86,7 @@ namespace ConsoleApp1
             if (xmlDoc.FirstChild is XmlDeclaration) { xmlDoc.RemoveChild(xmlDoc.FirstChild); }
             
             const string jsonArr = "http://james.newtonking.com/projects/json";
-            foreach (string tag in new[] {"NationalParks", "Phone"})
+            foreach (string tag in new[] {"NationalPark", "Phone"})
             {
                 foreach (XmlElement elem in xmlDoc.GetElementsByTagName(tag))
                 {
