@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<NationalParks>
+<NationalPark>
     <NationalPark Rating="4.9">
        <Name>Grand Canyon</Name>
        <Phone>928-638-7496</Phone>
@@ -28,7 +28,7 @@
      <NationalPark>
         <Name>Yosemite</Name>
         <Phone>209-372-0200</Phone>
-        <Address NearestAirport="Fresno-Yosemite International Airport">
+        <Address>
             <Number>9017</Number>
             <Street>Village Drive</Street>
             <City>Yosemite Valley</City>
@@ -39,6 +39,7 @@
 
     <NationalPark Rating="4.9">
         <Name>Badlands</Name>
+        <Name>Badlands National Park</Name>
         <Phone>605-433-5361</Phone>
         <Phone>605-433-5489</Phone>
         <Phone>605-433-5850</Phone>
@@ -52,7 +53,6 @@
     </NationalPark>
      <NationalPark>
         <Name>Glacier</Name>
-        <Phone>406-888-7800</Phone>
         <Address NearestAirport="Glacier Park International Airport">
             <Number>64</Number>
             <Street>Grinnell Drive</Street>
@@ -133,6 +133,5 @@
             <City>Twentynine Palms</City>
             <State>CA</State>
             <Zip>92277</Zip>
-        </Address>
     </NationalPark>
-</NationalParks>
+</NationalPark>
